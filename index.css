@@ -1,0 +1,39 @@
+* {
+    flex: content;
+    align-items: center;
+}
+
+* {
+    background-color: lightcyan;
+}
+
+
+.form {
+    background-color:  rgb(76, 82, 134);
+    margin: 50px;
+    padding: 50px;
+    text-decoration: underline;
+    color: rgb(117, 67, 67);
+}
+
+
+
+div {
+    color: rgb(126, 57, 105);
+}
+    
+nav h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+nav p {
+    text-align: center;
+    color: darkblue;
+}
+
+@media only screen and (max-width:400px) {
+    * {
+        text-align: center;
+    }
+}
